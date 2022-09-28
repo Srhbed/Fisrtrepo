@@ -12,3 +12,5 @@
  la modification faite en remote
 
   mofification faite en local
+
+  un texte qui n'existe que sur cette branche 
