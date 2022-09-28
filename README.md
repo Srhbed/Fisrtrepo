@@ -12,3 +12,5 @@
  la modification faite en remote
 
   mofification faite en local
+
+  nous allons faire un conflit de branche 
